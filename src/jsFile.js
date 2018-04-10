@@ -7,3 +7,6 @@ function funcyness() {
 herp = () => {
     console.log("Deeerp");
 }
+
+funcyness();
+herp();
